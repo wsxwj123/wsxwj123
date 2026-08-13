@@ -51,18 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsxwj123&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsxwj123&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
 <p align="center">
   <sub>Made with 💙 · 随时可撤销（删除同名仓库即还原主页）</sub>
 </p>
