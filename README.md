@@ -21,6 +21,26 @@
 
 ---
 
+## 🚀 Highlight Projects
+
+<p align="center">
+  <a href="https://github.com/wsxwj123/claude-gui"><img src="https://img.shields.io/badge/claude--gui-38C6FF?style=for-the-badge" alt="claude-gui" /></a>
+  <a href="https://github.com/wsxwj123/dev-flow"><img src="https://img.shields.io/badge/dev--flow-FF6B6B?style=for-the-badge" alt="dev-flow" /></a>
+  <a href="https://github.com/wsxwj123/claude-pet"><img src="https://img.shields.io/badge/claude--pet-FFB347?style=for-the-badge" alt="claude-pet" /></a>
+  <a href="https://github.com/wsxwj123/scholar-skills"><img src="https://img.shields.io/badge/scholar--skills-8A2BE2?style=for-the-badge" alt="scholar-skills" /></a>
+  <a href="https://github.com/wsxwj123/text-diff-app"><img src="https://img.shields.io/badge/text--diff--app-2E8B57?style=for-the-badge" alt="text-diff-app" /></a>
+</p>
+
+| 项目 | 一句话 |
+|------|--------|
+| [claude-gui](https://github.com/wsxwj123/claude-gui) | Claude Code 的 GUI 辅助工具 |
+| [dev-flow](https://github.com/wsxwj123/dev-flow) | 开发任务分级流程技能 |
+| [claude-pet](https://github.com/wsxwj123/claude-pet) | 桌面宠物 / Claude 互动小工具 |
+| [scholar-skills](https://github.com/wsxwj123/scholar-skills) | 中文科研写作 Claude Code 技能包 |
+| [text-diff-app](https://github.com/wsxwj123/text-diff-app) | 跨平台文本润色对比工具 |
+
+---
+
 ## 🐍 Contribution Snake
 
 <picture>
@@ -40,26 +60,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsxwj123&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
-
----
-
-## 🚀 Highlight Projects
-
-<p align="center">
-  <a href="https://github.com/wsxwj123/claude-gui"><img src="https://img.shields.io/badge/claude--gui-38C6FF?style=for-the-badge" alt="claude-gui" /></a>
-  <a href="https://github.com/wsxwj123/dev-flow"><img src="https://img.shields.io/badge/dev--flow-FF6B6B?style=for-the-badge" alt="dev-flow" /></a>
-  <a href="https://github.com/wsxwj123/claude-pet"><img src="https://img.shields.io/badge/claude--pet-FFB347?style=for-the-badge" alt="claude-pet" /></a>
-  <a href="https://github.com/wsxwj123/scholar-skills"><img src="https://img.shields.io/badge/scholar--skills-8A2BE2?style=for-the-badge" alt="scholar-skills" /></a>
-  <a href="https://github.com/wsxwj123/text-diff-app"><img src="https://img.shields.io/badge/text--diff--app-2E8B57?style=for-the-badge" alt="text-diff-app" /></a>
-</p>
-
-| 项目 | 一句话 |
-|------|--------|
-| [claude-gui](https://github.com/wsxwj123/claude-gui) | Claude Code 的 GUI 辅助工具 |
-| [dev-flow](https://github.com/wsxwj123/dev-flow) | 开发任务分级流程技能 |
-| [claude-pet](https://github.com/wsxwj123/claude-pet) | 桌面宠物 / Claude 互动小工具 |
-| [scholar-skills](https://github.com/wsxwj123/scholar-skills) | 中文科研写作 Claude Code 技能包 |
-| [text-diff-app](https://github.com/wsxwj123/text-diff-app) | 跨平台文本润色对比工具 |
 
 ---
 
